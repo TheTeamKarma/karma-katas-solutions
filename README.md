@@ -1,7 +1,7 @@
 # Von Digitalis Estates · AI-Assisted Architecture
 
 **O'Reilly Architectural Katas 2026: AI-Assisted Software Architecture**
-Team: **Team Karma** · [Team](#team)
+Team: **Team Karma** · [Team](#team) · 🎥 [Semifinal video (4:49)](https://drive.google.com/file/d/1aBddhjvx3vmDCiz5m6D2zsWcLSxVRT7x/view?usp=sharing)
 
 > **In one sentence:** a new estate platform that runs without AI, with AI uses that must each beat a simple rules version, keep people in charge, and keep working when the Wi-Fi, the cloud or an AI provider fails.
 
