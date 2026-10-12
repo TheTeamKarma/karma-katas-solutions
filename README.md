@@ -1,7 +1,7 @@
 # Von Digitalis Estates · AI-Assisted Architecture
 
 **O'Reilly Architectural Katas 2026: AI-Assisted Software Architecture**
-Team: **The Team Karma**
+Team: **Team Karma** · [Team](#team)
 
 > **In one sentence:** a new estate platform that runs without AI, with AI uses that must each beat a simple rules version, keep people in charge, and keep working when the Wi-Fi, the cloud or an AI provider fails.
 
@@ -102,6 +102,15 @@ For judges scoring one criterion at a time: where this entry answers it.
 | Dealing with uncertainty in AI | [AI gateway and fallback](docs/ai/ai-gateway-and-fallback.md) · [ADR-006](adrs/ADR-006-ai-gateway.md) · [ADR-007](adrs/ADR-007-graceful-degradation.md) · [ADR-013](adrs/ADR-013-managed-ai-services.md) |
 | Additions match the existing architecture | [ADR-020](adrs/ADR-020-new-platform-as-baseline.md) · "Fit with the platform" in each AI use |
 | Validation and verification of AI results | [ADR-015](adrs/ADR-015-validating-ai-results.md) · "Checks before release" and "Monitoring in production" in each AI use · [AI quality targets at a glance](docs/10-quality-requirements.md#103-ai-quality-targets) · [quality attribute scenarios](docs/10-quality-requirements.md) |
+
+## Team
+
+| Member | Role in this entry |
+|---|---|
+| **Neeraj** | Lead Architect |
+| **Raveendra Chakrakodi** | AI Assurance Lead |
+| **Bhanupriya Purohit** | Platform & Data Architect |
+| **Aniket Purohit** | Visitor Experience Engineer |
 
 ## About this entry
 
